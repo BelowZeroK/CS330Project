@@ -1,5 +1,5 @@
 # CS 330 Coding Project - A Security Device
-Damien Karpen's (A20506154) super awesome CS 330 coding project. This project was extremely tedious for me because I am not an avid coder like most of the class is. I was/am very annoyed how this project was sprung up at the request of a single student and that it is worth 10% of my grade.
+Damien Karpen's (A20506154) super awesome CS 330 coding project. This project was extremely tedious for me because I am not an avid coder like most of the class is and my coding skills are extremely lacking. I was/am very annoyed how this project was sprung up at the request of a single student and that it is worth 10% of my grade.
 
 What the program does:
 
