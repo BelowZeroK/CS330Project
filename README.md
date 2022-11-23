@@ -3,7 +3,7 @@ Damien Karpen's (A20506154) super awesome CS 330 coding project. This project wa
 
 Where the program was created/tested:
 
-+ The program was created using Visual Studios and tested inside of it as well. The completed program was also tested using the web browser. The languages used were JavaScript and HTML.
++ The program was created using Visual Studios and tested inside of it as well. The completed program was also tested using the web browser. The languages used were JavaScript and HTML. I also used Windows Powershell to clone the files, open the README, and launch the program. 
 
 What the program does:
 
@@ -16,7 +16,7 @@ Below is the FSM used to create this program. I highly doubt that the FSM is as 
 How to build and run the executable:
 
   1. Clone the repository to the computer.
-  2. Double click the HTML file. This should open up any browser that already on the computer and run the code. Sometimes the program will run perfectly when launching it from Windows Powershell, other times it won't. I have no clue what causes this nor do I know how to fix it. I just recommend going through the file explorer as it consistently works through that. It's about a 50/50 of it working or not working through Powershell
+  2. Double click the HTML file. This should open up any browser that already on the computer and run the code. Sometimes the program will run perfectly when launching it from Windows Powershell, other times it won't. I have no clue what causes this nor do I know how to fix it. I just recommend going through the file explorer as it consistently works through that. It's about a 50/50 of it working or not working through Powershell.
   3. Once the program has started, a pop-up should open with a randomly generated number that will include the 5 digit sequence and a random number after it. This is to prove that the code does indeed work without requiring massive amounts of time.
   4. Press enter until the pop-up says that it locked or unlocked, or if it could not find the proper sequence for either, it will close after going through all the digits. Pressing enter cycles through a single digit.
   5. If the program automatically closes, just refresh the page to have a new number generated and continue through it like in step 4.
