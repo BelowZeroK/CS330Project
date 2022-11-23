@@ -1,9 +1,13 @@
 # CS 330 Coding Project - A Security Device
 Damien Karpen's (A20506154) super awesome CS 330 coding project. This project was extremely tedious for me because I am not an avid coder like most of the class is and my coding skills are extremely lacking. Because my coding skills are lacking, I required assistance from others to be able to complete this project. I was/am very annoyed how this project was sprung up at the request of a single student and that it is worth 10% of my grade.
 
+Where the program was created/tested:
+
++ The program was created using Visual Studios and tested inside of it as well. The completed program was also tested using the web browser. 
+
 What the program does:
 
-+ The program will generate random numbers in an attempt to find the correct locking or unlocking sequence. In this case, the locking sequence is 061541, and the unlocking sequence is 061544. If either sequence is found, the program will say "unlocked" or "locked" depending on which sequence was found.
++ The program will generate random numbers in an attempt to find the correct locking or unlocking sequence. In this case, the unlocking sequence is 061541, and the locking sequence is 061544. If either sequence is found, the program will say "unlocked" or "locked" depending on which sequence was found.
 
 Below is the FSM used to create this program. I highly doubt that the FSM is as efficient as it can be, even with the overlap between states (which  realistically is not secure as you want the intruder to be forced back to the beginning to waste their time).
 
