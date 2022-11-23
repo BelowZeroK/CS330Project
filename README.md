@@ -25,4 +25,6 @@ Misc. information:
 
 + In order to create a guess on how long it would take an intruder to get the correct sequence, you just need basic math. There are 6 total digits in the passcode, 5 of which are consistent between both the locking and unlocking sequences (06154), but the final digit has 2 options. The possibilities are 1 (for unlocking) and 4 (for locking). Since the intruder would not want to find the locking sequence, we can remove that possibility from our equation. Each digit can be a number between 0 and 9, or 10 possible numbers. Therefore, there are a total of 10^6 total possible combinations. Assuming that it takes only 1 second to go through each combination (physicially impossible without any tools/software at your disposal), it could take 1,000,000 seconds, or 11.57 days.
 
-+ 
++ To find how long it would actually take for the program to get the correct sequence to unlock the device I kept refreshing the page, which reruns the program from the beginning until I saw the correct sequence of numbers. I tested this 5 times, each test with 23 digits. Granted every time the program is run, there is a guaranteed chance of the 5 primary digits being in the code generated, so this does reduce the number of tries it takes to get the correct sequence, but this does give a good idea of how many tries it will take.
+
+  + Test 1: 
