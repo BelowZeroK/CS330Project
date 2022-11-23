@@ -3,7 +3,7 @@ Damien Karpen's (A20506154) super awesome CS 330 coding project. This project wa
 
 Where the program was created/tested:
 
-+ The program was created using Visual Studios and tested inside of it as well. The completed program was also tested using the web browser. 
++ The program was created using Visual Studios and tested inside of it as well. The completed program was also tested using the web browser. The languages used were JavaScript and HTML.
 
 What the program does:
 
